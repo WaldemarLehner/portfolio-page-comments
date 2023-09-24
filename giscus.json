@@ -2,5 +2,6 @@
   "origins": [
     "https://waldemarlehner.de",
     "https://staging.waldemarlehner.de"
-  ]
+  ],
+  "originsRegex": ["http://localhost:[0-9]+"]
 }
